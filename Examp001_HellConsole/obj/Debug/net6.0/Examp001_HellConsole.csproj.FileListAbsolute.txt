@@ -1,0 +1,15 @@
+C:\D\Документы\Учеба_ГБ\Example\Examp001_HellConsole\bin\Debug\net6.0\Examp001_HellConsole.exe
+C:\D\Документы\Учеба_ГБ\Example\Examp001_HellConsole\bin\Debug\net6.0\Examp001_HellConsole.deps.json
+C:\D\Документы\Учеба_ГБ\Example\Examp001_HellConsole\bin\Debug\net6.0\Examp001_HellConsole.runtimeconfig.json
+C:\D\Документы\Учеба_ГБ\Example\Examp001_HellConsole\bin\Debug\net6.0\Examp001_HellConsole.dll
+C:\D\Документы\Учеба_ГБ\Example\Examp001_HellConsole\bin\Debug\net6.0\Examp001_HellConsole.pdb
+C:\D\Документы\Учеба_ГБ\Example\Examp001_HellConsole\obj\Debug\net6.0\Examp001_HellConsole.csproj.AssemblyReference.cache
+C:\D\Документы\Учеба_ГБ\Example\Examp001_HellConsole\obj\Debug\net6.0\Examp001_HellConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Документы\Учеба_ГБ\Example\Examp001_HellConsole\obj\Debug\net6.0\Examp001_HellConsole.AssemblyInfoInputs.cache
+C:\D\Документы\Учеба_ГБ\Example\Examp001_HellConsole\obj\Debug\net6.0\Examp001_HellConsole.AssemblyInfo.cs
+C:\D\Документы\Учеба_ГБ\Example\Examp001_HellConsole\obj\Debug\net6.0\Examp001_HellConsole.csproj.CoreCompileInputs.cache
+C:\D\Документы\Учеба_ГБ\Example\Examp001_HellConsole\obj\Debug\net6.0\Examp001_HellConsole.dll
+C:\D\Документы\Учеба_ГБ\Example\Examp001_HellConsole\obj\Debug\net6.0\refint\Examp001_HellConsole.dll
+C:\D\Документы\Учеба_ГБ\Example\Examp001_HellConsole\obj\Debug\net6.0\Examp001_HellConsole.pdb
+C:\D\Документы\Учеба_ГБ\Example\Examp001_HellConsole\obj\Debug\net6.0\Examp001_HellConsole.genruntimeconfig.cache
+C:\D\Документы\Учеба_ГБ\Example\Examp001_HellConsole\obj\Debug\net6.0\ref\Examp001_HellConsole.dll
